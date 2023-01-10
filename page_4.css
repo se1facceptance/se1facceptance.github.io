@@ -1,0 +1,53 @@
+.container {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+}
+.picture_1 {
+  background-image: url(https://i.pinimg.com/736x/93/c3/93/93c39332cbc2e3d1a7ed4fd465170df7.jpg);
+  background-position: bottom;
+  background-size: cover;
+  width: 590px;
+  height: 675px;
+}
+.block1 {
+  display: flex;
+
+  align-items: center;
+  justify-content: flex-start;
+}
+.text_1 {
+  font-size: 20px;
+  width: 420px;
+  height: 350px;
+  margin-left: 20px;
+  position: relative;
+  top: -95px;
+  left: -175px;
+  margin-top: 250px;
+  background-color: rgb(255, 255, 255);
+}
+.background {
+  background-image: url(https://i.pinimg.com/originals/92/1a/c8/921ac8977fafb68fa7f1b9b446a245d1.jpg);
+  background-position: bottom;
+  background-size: cover;
+  width: 790px;
+  height: 725px;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+}
+.icon1 {
+  height: 60px;
+  width: 60px;
+
+  position: relative;
+  top: -275px;
+  left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  background-image: url(https://cdn-icons-png.flaticon.com/512/5602/5602104.png);
+  background-position: center center;
+  background-size: cover;
+}
