@@ -1,0 +1,53 @@
+.container {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+}
+.picture_1 {
+  background-position: center center;
+  background-size: cover;
+  width: 590px;
+  height: 675px;
+  background-image: url(https://img.freepik.com/free-photo/top-view-of-natural-cosmetics-with-copy-space_23-2148578628.jpg?w=2000);
+}
+.block1 {
+  display: flex;
+
+  align-items: center;
+  justify-content: flex-start;
+}
+.text_1 {
+  font-size: 20px;
+  width: 420px;
+  height: 350px;
+  margin-left: 20px;
+  position: relative;
+  top: -95px;
+  left: -175px;
+  margin-top: 250px;
+  background-color: rgb(255, 255, 255);
+}
+.background {
+  background-image: url(https://cdn.shopify.com/s/files/1/0029/2952/4805/products/Rosarium4b_m_2400x.jpg?v=1616429504);
+  background-position: center;
+  background-size: cover;
+  width: 790px;
+  height: 725px;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+}
+.icon1 {
+  height: 60px;
+  width: 60px;
+
+  position: relative;
+  top: -275px;
+  left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  background-image: url(https://cdn-icons-png.flaticon.com/512/5602/5602104.png);
+  background-position: center center;
+  background-size: cover;
+}
